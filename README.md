@@ -36,7 +36,7 @@ VITE_FIREBASE_APP_ID=your_app_id
 ## Запуск проекта:
 
 ```bash
-npm run dev
+npm i && npm run start
 ```
 
 ## Запуск тестов:
